@@ -36,8 +36,10 @@ mqtt_subscribe.js
 초기 와이어프레임 입니다.
 ![image](https://github.com/sowon61/bbiyakProject/assets/115778827/bf1f216b-3c99-41fe-8acf-c3dbf412777a)
 
+
 최종 설계된 DB입니다.
 ![image](https://github.com/sowon61/bbiyakProject/assets/115778827/45051531-c029-4078-b773-e4abd1d9b9c3)
+
 <<firebase url 삽입>>
 
 처방전 인식 기능을 구현, db에 전송까지 완료하였습니다. (코드는 ocrServer폴더에 있습니다.)
