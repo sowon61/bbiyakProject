@@ -3,25 +3,7 @@
 ![image](https://github.com/sowon61/bbiyakProject/assets/115778827/4211d8e8-8220-4cf3-9073-edcd0aa96a90)
 
 먼저, 저희의 전체적인 프로젝트 구성내용입니다.
-![image](https://github.com/sowon61/bbiyakProject/assets/115778827/d50bd625-2f19-49f0-aa32-d0dcaf6fa541)
-
-(ppt만들기) + 폴더 넣으면서 기여도 같이 넣기 
-- ocr 서버 코드
-firebase 폴더
-ocrServer 폴더
-
--센서 및 기기 코드
-서랍형tray_ESP32_small 폴더
-약통형bottle_ESP32_LDS 폴더
-자동공급기형feeder_sample_ESP32 폴더
-
--Nodejs 서버 코드
-bbiyakMain.js
-mqtt_publish.js
-mqtt_subscribe.js
-
--안드로이드 코드 
-
+![image](https://github.com/sowon61/bbiyakProject/assets/115778827/940268d7-4fe8-4d5a-bf6e-8ee7f1879a23)
 
 
 저희는 프로젝트 초기, 약 2-3개월 간 기존 시장 분석을 통해 문제점을 찾은 후 해결하는 방안을 찾아 나아갔습니다. 
