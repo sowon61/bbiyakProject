@@ -14,10 +14,8 @@
 초기의 시스템 기술 구조도이며 작성 후에도 여러 분석과 탐색을 통하여 최종 결과물과는 다른 점이 있습니다. 
 ![image](https://github.com/sowon61/bbiyakProject/assets/115778827/06d5a6d6-b1fc-4f6a-bcf2-3b3c25556263)
 
-초기 와이어프레임 입니다.
+초기 와이어프레임과 최종 설계된 DB입니다.
 ![image](https://github.com/sowon61/bbiyakProject/assets/115778827/bf1f216b-3c99-41fe-8acf-c3dbf412777a)
-
-최종 설계된 DB입니다.
 ![image](https://github.com/sowon61/bbiyakProject/assets/115778827/715455de-adbe-4d70-b8ea-07072a0ed683)
 
 저희가 진행하는 서비스의 전체적인 프로세스 입니다. 
