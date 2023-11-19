@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textureView" type="id" />
+    <item name="uploadButton" type="id" />
+    <item name="mappingButton" type="id" />
+    <item name="captureButton" type="id" />
+</resources>
