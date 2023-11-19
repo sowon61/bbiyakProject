@@ -21,7 +21,7 @@
 ![image](https://github.com/sowon61/bbiyakProject/assets/115778827/bf1f216b-3c99-41fe-8acf-c3dbf412777a)
 ![image](https://github.com/sowon61/bbiyakProject/assets/115778827/715455de-adbe-4d70-b8ea-07072a0ed683)
 
-저희가 진행하는 서비스의 전체적인 프로세스 입니다. 
+여러 번의 회의와 시뮬레이션을 거친 결과 삐약이 팀이 전체적으로 진행하는 최적의 서비스 프로세스 입니다. 
 ![image](https://github.com/sowon61/bbiyakProject/assets/115778827/0ced3b2c-26fd-4355-83af-0ead9c56c229)
 
 처방전 인식 기능을 구현, db에 전송까지 완료하였습니다. (코드는 ocrServer폴더에 있습니다.)
