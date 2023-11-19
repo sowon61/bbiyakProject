@@ -28,8 +28,6 @@
 ![image](https://github.com/sowon61/bbiyakProject/assets/115778827/f96a86e6-f62b-404f-ba54-9a9d89c8aab7)
 ![image](https://github.com/sowon61/bbiyakProject/assets/115778827/a1311b6a-1942-4140-a2c7-bb32805421ed)
 
+최종 결과물인 제품입니다. 저희는 복약이 중요하신 모든 만성질환자 분들이 적절한 복용시기를 놓치지 않으면 좋겠다는 바람으로 개발한 앱과 서비스입니다.
+![image](https://github.com/sowon61/bbiyakProject/assets/115778827/15f65a05-21fd-4a0b-95a1-4eb376a5ea8a)
 
-
-
-최종 결과물인 제품입니다. 저희는 복약이 중요하신 모든 만성질환자 분들이 적절한 복용시기를 놓치지 않는 마음에서 개발하였습니다.
-![image](https://github.com/sowon61/bbiyakProject/assets/115778827/8279e039-f132-4ea8-bd3f-6d85a46d6654)
