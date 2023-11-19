@@ -5,7 +5,7 @@
 먼저, 저희의 전체적인 프로젝트 구성내용입니다.
 ![image](https://github.com/sowon61/bbiyakProject/assets/115778827/afd46b83-7812-40ba-9e8f-949a002d62b3)
 
-깃허브 폴더 설명 및 본인 기여도 입니다.
+깃허브 폴더 설명 및 본인 기여도 입니다. 
 ![image](https://github.com/sowon61/bbiyakProject/assets/115778827/21a62daf-b88f-4251-9a84-0a665f86d07b)
 
 기사와 논문들을 살펴보며 복용 관련 문제가 심각하다는 것을 깨달았습니다.
