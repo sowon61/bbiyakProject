@@ -8,6 +8,9 @@
 깃허브 폴더 설명 및 본인 기여도 입니다.
 ![image](https://github.com/sowon61/bbiyakProject/assets/115778827/21a62daf-b88f-4251-9a84-0a665f86d07b)
 
+기사와 논문들을 살펴보며 복용 관련 문제가 심각하다는 것을 깨달았습니다.
+![image](https://github.com/sowon61/bbiyakProject/assets/115778827/6c82620b-293b-4b3e-9ac0-6f7c9b63fead)
+
 저희는 프로젝트 초기, 약 2-3개월 간 기존 시장 분석을 통해 문제점을 찾은 후 해결하는 방안을 찾아 나아갔습니다. 
 ![image](https://github.com/sowon61/bbiyakProject/assets/115778827/177faffa-2c46-41e4-b9a5-908a7bdd3106)
 
